@@ -17,4 +17,5 @@ This repository documents my progress through TryHackMe, focusing on labs and ro
 ## Rooms
 | Rooms | Topic |
 ------------------
-| Linux Fundamentals Part 3 | Navigating Linux Machine, Using Utilities,  |
+| Linux Fundamentals Part 3 | Navigating Linux Machine, Using Utilities, Maintaining Systems |
+| 
