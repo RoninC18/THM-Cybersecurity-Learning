@@ -13,9 +13,12 @@ This repository documents my progress through TryHackMe, focusing on labs and ro
 - Operating Systems
 - Hardware
 - Networking
+- Windows
+- Linux
   
 ## Rooms
 | Rooms | Topic |
 ------------------
 | Linux Fundamentals Part 3 | Navigating Linux Machine, Using Utilities, Maintaining Systems |
+| Windows Fundamentals Part 2 | System Configuration, UAC Settings, Resource Monitoring, the Windows Registry |
 | 
